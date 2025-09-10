@@ -8,6 +8,10 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## 📖 Contents
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ### What is a [Purple](https://www.crowdstrike.com/en-us/cybersecurity-101/advisory-services/purple-teaming) Team?
 
