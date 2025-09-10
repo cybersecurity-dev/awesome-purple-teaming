@@ -8,3 +8,10 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+
+### What is a [Purple](https://www.crowdstrike.com/en-us/cybersecurity-101/advisory-services/purple-teaming) Team?
+
+
+### Purple Teams vs. [Red Teams](https://github.com/cybersecurity-dev/awesome-red-teaming) vs. [Blue Teams](https://github.com/cybersecurity-dev/awesome-blue-teaming)
+
+
